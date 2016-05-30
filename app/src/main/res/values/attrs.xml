@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ATActionItem">
+        <attr name="at_title" format="string" />
+        <attr name="at_icon" format="reference" />
+    </declare-styleable>
+
+</resources>

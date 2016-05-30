@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+
+    <string name="empty_state">There is no data</string>
+    <string name="lorem_ipsum">Lorem ipsum&#8230;</string>
+    <string name="modified" formatted="false">modified %s</string>
+
+    <string name="actions">Actions</string>
+    <string name="set_as_favourite">Set as favourite</string>
+    <string name="get_permalink">Get permalink</string>
+    <string name="delete">Delete</string>
+</resources>
